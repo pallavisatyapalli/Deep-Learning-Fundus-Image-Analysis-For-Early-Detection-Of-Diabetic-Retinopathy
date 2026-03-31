@@ -1,7 +1,7 @@
 
-# 🩺 Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
+# Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
 
-## 📌 Project Overview
+## Project Overview
 
 **Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy** is a medical imaging project that leverages deep learning techniques to automatically detect diabetic retinopathy (DR) from retinal fundus images.
 
@@ -9,7 +9,7 @@ Diabetic Retinopathy is one of the leading causes of blindness among diabetic pa
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 By completing this project, you will:
 
@@ -23,7 +23,7 @@ By completing this project, you will:
 
 ---
 
-## 🏥 Real-World Applications
+## Real-World Applications
 
 ### 1️⃣ Early Disease Detection
 
@@ -52,9 +52,9 @@ The system consists of:
 
 ---
 
-## 📚 Pre-Requisites
+## Pre-Requisites
 
-### 🔹 Required Software & Tools
+### Required Software & Tools
 
 * Python 3.x
 * Anaconda
@@ -67,7 +67,7 @@ The system consists of:
 * Matplotlib
 * Cloudant Library
 
-### 🔹 Prior Knowledge Required
+### Prior Knowledge Required
 
 * Python Programming
 * Deep Learning Basics
@@ -78,7 +78,7 @@ The system consists of:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Deep-Learning-DR-Detection/
@@ -104,7 +104,7 @@ Deep-Learning-DR-Detection/
 
 ---
 
-# 🚀 Project Workflow
+# Project Workflow
 
 ---
 
